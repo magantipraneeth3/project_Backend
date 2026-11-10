@@ -3,7 +3,6 @@ package com.klu.service;
 import java.util.List;
 
 import org.springframework.stereotype.Service;
-
 import com.klu.model.Product;
 import com.klu.repository.ProductRepository;
 
