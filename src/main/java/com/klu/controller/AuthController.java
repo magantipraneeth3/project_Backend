@@ -8,7 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.klu.model.User;
 import com.klu.service.UserService;
-
 @RestController
 @RequestMapping("/api/auth")
 @CrossOrigin(origins = "http://localhost:5173")
